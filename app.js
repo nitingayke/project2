@@ -1,4 +1,5 @@
 // creating js file
 let level = 1;
 
-let h1 = document.querySelector("h1");//header 
+let h1 = document.querySelector("h1"); 
+let isFalse = false;
